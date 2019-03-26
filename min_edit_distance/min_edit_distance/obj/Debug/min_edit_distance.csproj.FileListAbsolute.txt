@@ -1,0 +1,7 @@
+C:\Users\trran\OneDrive\Documents\C# Programming\min_edit\min_edit_distance\min_edit_distance\bin\Debug\min_edit_distance.exe.config
+C:\Users\trran\OneDrive\Documents\C# Programming\min_edit\min_edit_distance\min_edit_distance\bin\Debug\min_edit_distance.exe
+C:\Users\trran\OneDrive\Documents\C# Programming\min_edit\min_edit_distance\min_edit_distance\bin\Debug\min_edit_distance.pdb
+C:\Users\trran\OneDrive\Documents\C# Programming\min_edit\min_edit_distance\min_edit_distance\obj\Debug\min_edit_distance.csprojAssemblyReference.cache
+C:\Users\trran\OneDrive\Documents\C# Programming\min_edit\min_edit_distance\min_edit_distance\obj\Debug\min_edit_distance.csproj.CoreCompileInputs.cache
+C:\Users\trran\OneDrive\Documents\C# Programming\min_edit\min_edit_distance\min_edit_distance\obj\Debug\min_edit_distance.exe
+C:\Users\trran\OneDrive\Documents\C# Programming\min_edit\min_edit_distance\min_edit_distance\obj\Debug\min_edit_distance.pdb
