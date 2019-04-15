@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\trran\\OneDrive\\Documents\\C# Programming\\min_edit\\min_edit_distance\\Minimum-Edit-Distance\\min_edit_distance\\min_edit_distance\\min_edit_distance.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

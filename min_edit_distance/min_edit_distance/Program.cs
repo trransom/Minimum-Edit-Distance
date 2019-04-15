@@ -156,8 +156,14 @@ namespace min_edit_distance
         static void Main(string[] args)
         {
             EditDistance ed = new EditDistance();
-            Cell[,] answer = ed.MinEditDistance("execution", "intention");
-            List<string> backtrace = ed.Alignment(answer, "execution", "intention");
+
+            Console.Write("Enter the source string:\n");
+            string source = Console.ReadLine();
+            Console.Write("Enter the target string:\n");
+            string target = Console.ReadLine();
+
+            Cell[,] answer = ed.MinEditDistance(target, source);
+            List<string> backtrace = ed.Alignment(answer, target, source);
 
             //Print the Minimum Edit Distance Table
             Console.WriteLine("Minimum Edit Distance Table:\n");
